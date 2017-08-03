@@ -13,6 +13,7 @@
 npm run build
 ```
 ### 目录
+```
 |-node_modules
 |-src // 生产环境的 html 存放文件夹
     |-template // 公共部分的 html 存放文件夹
@@ -21,6 +22,7 @@ npm run build
     |-statics // 一些js,css,img 图片
 |-dist // 编译后的 html 文件
 
+```
 ### example
 1. /views/demo1.html
 ```
