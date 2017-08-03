@@ -1,0 +1,16 @@
+{
+  "name": "html_module",
+  "version": "1.0.0",
+  "description": "qidian 官网模块化",
+  "main": "gulpFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "gulp fileinclude"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-file-include": "^1.1.0"
+  }
+}
